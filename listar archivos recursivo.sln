@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "listar archivos recursivo", "listar archivos recursivo\listar archivos recursivo.csproj", "{9EA3BB4B-52A2-4A64-BC24-2095B4356D2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EA3BB4B-52A2-4A64-BC24-2095B4356D2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EA3BB4B-52A2-4A64-BC24-2095B4356D2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EA3BB4B-52A2-4A64-BC24-2095B4356D2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EA3BB4B-52A2-4A64-BC24-2095B4356D2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D510CF8E-446F-4DBC-84B1-A5BD027A8BF5}
+	EndGlobalSection
+EndGlobal
